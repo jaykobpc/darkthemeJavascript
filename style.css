@@ -82,9 +82,11 @@ body {
 .theme-light {
     background-color: #fff;
     color: rgb(107, 107, 107);
+    transition: all 0.3s;
 }
 
 .theme-dark {
     color: #fff;
     background-color: #3e4652;
+    transition: all 0.3s;
 }
